@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background:linear-gradient(#DDA0DD,#E83FE4,#FF52F6,#E83FDB,#FF45EC);
+    height: 80px;
+}
+
+body{
+    background-color: #e7c0e7;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Borel', cursive;
+    color: #40143E;
+    font-size: 80px;
+    margin-top: 20px;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+
+/* main{
+    width: 60vw;
+    margin: 0 auto;
+} */
+
+img{
+    width: 170px;
+    border: solid 2px #40143E;
+    padding: 4px;
+}
+
+.listinha{
+    font-family: 'Borel', cursive;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-around;
+    height: 80px;
+    align-items:center;
+    color: #40143E;
+    padding-top: 15px;
+}
+
+.tipochoco > *{
+    margin-top: 20px;
+}
+
+#chocolatim{
+    display: flex;
+    justify-content: space-evenly;
+}
