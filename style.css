@@ -40,8 +40,8 @@ img {
 
 footer {
     background: linear-gradient(#DDA0DD, #E83FE4, #FF52F6, #E83FDB, #FF45EC);
-    height: 80px;
-    position: absolute;
+    height: 120px;
+    position: relative;
     bottom: 0;
     width: 100%;
 }
@@ -54,9 +54,9 @@ h2{
 }
 
 .inputizinho{
-    padding-left: 50px;
-    margin-top: 20px;
-    font-size: 20px;
+    padding-left: 15px;
+    margin-top: 15px;
+    font-size: 15px;
 }
 
 .listinha {
