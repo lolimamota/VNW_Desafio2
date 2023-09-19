@@ -44,7 +44,7 @@ h1 {
     justify-content: space-evenly;
 }
 
-p {
+p, h3 {
     font-family: 'Raleway', sans-serif;
     font-size: 15px;
 }
@@ -84,4 +84,12 @@ h2 {
 .check,
 .radio {
     margin: 1px;
+}
+
+form {
+    padding: 15px;
+}
+
+.parainput{
+    margin: 5px;
 }
